@@ -1,0 +1,16 @@
+.hello {
+	
+	text-align: center;
+	background-color: #1E90FF;
+	height: 165px;
+	width: 220px;
+	margin-top: 20%;
+	margin-left: 43%;
+	border-radius: 12px;
+	padding-top: 10px;
+}
+
+body{
+background: #F0E68C;
+
+}
